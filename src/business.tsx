@@ -32,7 +32,7 @@ function Business() {
   const problem=visible[current]
   return <div className='training-app'>
     <ProblemNav problems={visible} allProblems={data} current={current} category={category} query={query} difficulty={difficulty} completed={completed} open={navOpen} onCurrent={i=>{setCurrent(i);setNavOpen(false)}} onCategory={setCategory} onQuery={setQuery} onDifficulty={setDifficulty} onClose={()=>setNavOpen(false)}/>
-    {problem?<StudyWorkspace problem={problem} position={current} total={visible.length} completed={completed.has(problem.slug)} onToggle={toggle} onPrev={()=>setCurrent(Math.max(0,current-1))} onNext={()=>setCurrent(Math.min(visible.length-1,current+1))} onMenu={()=>setNavOpen(true)}/>:<div className='no-result'>没有匹配题目，请调整筛选条件。</div>}
+    {problem?<StudyWorkspace problem={problem} position={current} total={visible.length} completed={completed.has(problem.slug)} onToggle={toggle} onPrev={()=>setCurrent(Math.max(0,current-1))} onNext={()=>setCurrent(Math.min(visible.length-1,current+1))} onMenu={()=>setNavOpen((open)=>!open)}/>:<div className='no-result'>没有匹配题目，请调整筛选条件。</div>}
     {navOpen?<button className='nav-scrim' onClick={()=>setNavOpen(false)} aria-label='关闭导航'/>:null}
   </div>
 }
