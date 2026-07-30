@@ -43,3 +43,75 @@
   .description-card { margin: 0 16px 16px; padding: 18px; }
   .markdown-content table { display: block; overflow-x: auto; white-space: nowrap; }
 }
+
+.guide-card {
+  margin: 0 0 30px;
+  display: grid;
+  grid-template-columns: 52px 1fr;
+  gap: 20px;
+  padding: 25px;
+  background: #f8f8f5;
+  border: 1px solid #d2d2cb;
+}
+.guide-card h2 {
+  font-size: 15px;
+  margin: 5px 0 6px;
+}
+.guide-lead {
+  margin: 0 0 14px;
+  font-size: 13px;
+  color: #6a6a65;
+}
+.guide-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 8px;
+}
+.guide-list a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 14px;
+  border: 1px solid #d5d5cf;
+  background: #fff;
+  color: #2d2d2b;
+  text-decoration: none;
+  transition: border-color .15s, background .15s;
+}
+.guide-list a:hover {
+  border-color: #8a8a84;
+  background: #fafaf8;
+}
+.guide-list strong,
+.guide-list small {
+  display: block;
+}
+.guide-list strong {
+  font-size: 13px;
+  font-weight: 600;
+}
+.guide-list small {
+  margin-top: 3px;
+  font-size: 11px;
+  color: #85857f;
+}
+.guide-list svg {
+  flex: none;
+  color: #8a8a84;
+}
+.code-card pre {
+  margin: 0 !important;
+}
+@media (max-width: 800px) {
+  .guide-card {
+    grid-template-columns: 30px 1fr;
+    padding: 19px;
+    gap: 10px;
+  }
+  .guide-list a {
+    padding: 11px 12px;
+  }
+}

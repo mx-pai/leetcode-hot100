@@ -1,5 +1,7 @@
 import { Check, CheckCircle2, ChevronLeft, ChevronRight, Clipboard, ExternalLink, Menu } from 'lucide-react'
 import { useState } from 'react'
+import CodeBlock from './CodeBlock'
+import GuideLinks from './GuideLinks'
 import MarkdownContent from './MarkdownContent'
 import { languages, type CodeMode, type Language, type Problem } from './types'
 
@@ -27,6 +29,7 @@ export default function StudyWorkspace({problem:p, position, total, completed, o
       <div className='card-number'>01</div><div><span className='eyebrow'>CORE RECALL</span><h2>核心思路</h2><MarkdownContent content={p.core_logic}/></div>
       <div className='complexity'><span>复杂度</span><MarkdownContent content={p.complexity}/></div>
     </section>
+    <GuideLinks problem={p}/>
     <section className='code-card'>
       <div className='code-toolbar'>
         <div className='mode-tabs'><button className={mode==='leetcode'?'active':''} onClick={()=>setMode('leetcode')}>LeetCode</button><button className={mode==='acm'?'active':''} onClick={()=>setMode('acm')}>ACM 标准输入</button></div>
@@ -34,7 +37,7 @@ export default function StudyWorkspace({problem:p, position, total, completed, o
       </div>
       <div className='language-tabs'>{languages.map(l=><button key={l.key} className={language===l.key?'active':''} onClick={()=>setLanguage(l.key)}>{l.label}</button>)}</div>
       {mode==='acm'&&<div className='protocol-note'><strong>输入协议</strong><MarkdownContent content={p.acm_protocols[language]}/></div>}
-      <pre><code>{code}</code></pre>
+      <CodeBlock code={code} language={language}/>
     </section>
     <footer className='workspace-footer'><span>{p.tags.join(' · ')}</span><span>数据已本地保存</span></footer>
   </main>
