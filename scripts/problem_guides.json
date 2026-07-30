@@ -1,0 +1,2307 @@
+{
+  "two-sum": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0001.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/1.two-sum.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0001.Two-Sum"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0001.Two%20Sum/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/two-sum"
+    }
+  ],
+  "group-anagrams": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/49.group-anagrams.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0049.Group-Anagrams"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0049.Group%20Anagrams/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/group-anagrams"
+    }
+  ],
+  "longest-consecutive-sequence": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/128.longest-consecutive-sequence.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0128.Longest-Consecutive-Sequence"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0128.Longest%20Consecutive%20Sequence/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/longest-consecutive-sequence"
+    }
+  ],
+  "move-zeroes": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0283.%E7%A7%BB%E5%8A%A8%E9%9B%B6.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/283.move-zeroes.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0283.Move-Zeroes"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0283.Move%20Zeroes/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/move-zeroes"
+    }
+  ],
+  "container-with-most-water": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/11.container-with-most-water.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0011.Container-With-Most-Water"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0011.Container%20With%20Most%20Water/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/container-with-most-water"
+    }
+  ],
+  "3sum": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/15.3sum.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0015.3Sum"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0015.3Sum/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/3sum"
+    }
+  ],
+  "trapping-rain-water": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0042.%E6%8E%A5%E9%9B%A8%E6%B0%B4.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/42.trapping-rain-water.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0042.Trapping-Rain-Water"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0042.Trapping%20Rain%20Water/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/trapping-rain-water"
+    }
+  ],
+  "longest-substring-without-repeating-characters": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/3.longest-substring-without-repeating-characters.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0003.Longest-Substring-Without-Repeating-Characters"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0003.Longest%20Substring%20Without%20Repeating%20Characters/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/longest-substring-without-repeating-characters"
+    }
+  ],
+  "find-all-anagrams-in-a-string": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/438.find-all-anagrams-in-a-string.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0438.Find-All-Anagrams-in-a-String"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0400-0499/0438.Find%20All%20Anagrams%20in%20a%20String/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/find-all-anagrams-in-a-string"
+    }
+  ],
+  "subarray-sum-equals-k": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/560.subarray-sum-equals-k.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0560.Subarray-Sum-Equals-K"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0500-0599/0560.Subarray%20Sum%20Equals%20K/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/subarray-sum-equals-k"
+    }
+  ],
+  "sliding-window-maximum": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0239.%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%80%BC.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/239.sliding-window-maximum.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0239.Sliding-Window-Maximum"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0239.Sliding%20Window%20Maximum/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/sliding-window-maximum"
+    }
+  ],
+  "minimum-window-substring": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0076.Minimum-Window-Substring"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0076.Minimum%20Window%20Substring/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/minimum-window-substring"
+    }
+  ],
+  "maximum-subarray": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/53.maximum-sum-subarray-cn.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0053.Maximum-Subarray"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0053.Maximum%20Subarray/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/maximum-subarray"
+    }
+  ],
+  "merge-intervals": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0056.%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/56.merge-intervals.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0056.Merge-Intervals"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0056.Merge%20Intervals/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/merge-intervals"
+    }
+  ],
+  "rotate-array": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0189.%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0189.Rotate-Array"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0189.Rotate%20Array/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/rotate-array"
+    }
+  ],
+  "product-of-array-except-self": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/238.product-of-array-except-self.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0238.Product-of-Array-Except-Self"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0238.Product%20of%20Array%20Except%20Self/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/product-of-array-except-self"
+    }
+  ],
+  "first-missing-positive": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0041.First-Missing-Positive"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0041.First%20Missing%20Positive/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/first-missing-positive"
+    }
+  ],
+  "set-matrix-zeroes": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/73.set-matrix-zeroes.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0073.Set-Matrix-Zeroes"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0073.Set%20Matrix%20Zeroes/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/set-matrix-zeroes"
+    }
+  ],
+  "spiral-matrix": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0054.%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0054.Spiral-Matrix"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0054.Spiral%20Matrix/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/spiral-matrix"
+    }
+  ],
+  "rotate-image": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/48.rotate-image.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0048.Rotate-Image"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0048.Rotate%20Image/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/rotate-image"
+    }
+  ],
+  "search-a-2d-matrix-ii": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/240.search-a-2-d-matrix-ii.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0240.Search-a-2D-Matrix-II"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0240.Search%20a%202D%20Matrix%20II/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/search-a-2d-matrix-ii"
+    }
+  ],
+  "intersection-of-two-linked-lists": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/160.Intersection-of-Two-Linked-Lists.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0160.Intersection-of-Two-Linked-Lists"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0160.Intersection%20of%20Two%20Linked%20Lists/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/intersection-of-two-linked-lists"
+    }
+  ],
+  "reverse-linked-list": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0206.%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/206.reverse-linked-list.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0206.Reverse-Linked-List"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0206.Reverse%20Linked%20List/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/reverse-linked-list"
+    }
+  ],
+  "palindrome-linked-list": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0234.%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0234.Palindrome-Linked-List"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0234.Palindrome%20Linked%20List/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/palindrome-linked-list"
+    }
+  ],
+  "linked-list-cycle": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0141.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0141.Linked-List-Cycle"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0141.Linked%20List%20Cycle/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/linked-list-cycle"
+    }
+  ],
+  "linked-list-cycle-ii": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0142.%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8II.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/142.Linked-List-Cycle-II.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0142.Linked-List-Cycle-II"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0142.Linked%20List%20Cycle%20II/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/linked-list-cycle-ii"
+    }
+  ],
+  "merge-two-sorted-lists": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/21.merge-two-sorted-lists.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0021.Merge-Two-Sorted-Lists"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0021.Merge%20Two%20Sorted%20Lists/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/merge-two-sorted-lists"
+    }
+  ],
+  "add-two-numbers": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/2.add-two-numbers.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0002.Add-Two-Numbers"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0002.Add%20Two%20Numbers/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/add-two-numbers"
+    }
+  ],
+  "remove-nth-node-from-end-of-list": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0019.%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACN%E4%B8%AA%E8%8A%82%E7%82%B9.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/19.removeNthNodeFromEndofList.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0019.Remove-Nth-Node-From-End-of-List"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0019.Remove%20Nth%20Node%20From%20End%20of%20List/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/remove-nth-node-from-end-of-list"
+    }
+  ],
+  "swap-nodes-in-pairs": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0024.%E4%B8%A4%E4%B8%A4%E4%BA%A4%E6%8D%A2%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/24.swapNodesInPairs.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0024.Swap-Nodes-in-Pairs"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0024.Swap%20Nodes%20in%20Pairs/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/swap-nodes-in-pairs"
+    }
+  ],
+  "reverse-nodes-in-k-group": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/25.reverse-nodes-in-k-groups-en.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0025.Reverse-Nodes-in-k-Group"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0025.Reverse%20Nodes%20in%20k-Group/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/reverse-nodes-in-k-group"
+    }
+  ],
+  "copy-list-with-random-pointer": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0138.Copy-List-With-Random-Pointer"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0138.Copy%20List%20with%20Random%20Pointer/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/copy-list-with-random-pointer"
+    }
+  ],
+  "sort-list": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0148.Sort-List"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0148.Sort%20List/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/sort-list"
+    }
+  ],
+  "merge-k-sorted-lists": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/23.merge-k-sorted-lists.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0023.Merge-k-Sorted-Lists"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0023.Merge%20k%20Sorted%20Lists/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/merge-k-sorted-lists"
+    }
+  ],
+  "lru-cache": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/146.lru-cache.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0146.LRU-Cache"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0146.LRU%20Cache/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/lru-cache"
+    }
+  ],
+  "binary-tree-inorder-traversal": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/94.binary-tree-inorder-traversal.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0094.Binary-Tree-Inorder-Traversal"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0094.Binary%20Tree%20Inorder%20Traversal/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/binary-tree-inorder-traversal"
+    }
+  ],
+  "maximum-depth-of-binary-tree": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/104.maximum-depth-of-binary-tree.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0104.Maximum-Depth-of-Binary-Tree"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0104.Maximum%20Depth%20of%20Binary%20Tree/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/maximum-depth-of-binary-tree"
+    }
+  ],
+  "invert-binary-tree": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0226.%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/226.invert-binary-tree.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0226.Invert-Binary-Tree"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0226.Invert%20Binary%20Tree/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/invert-binary-tree"
+    }
+  ],
+  "symmetric-tree": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/101.symmetric-tree.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0101.Symmetric-Tree"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0101.Symmetric%20Tree/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/symmetric-tree"
+    }
+  ],
+  "diameter-of-binary-tree": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0543.Diameter-of-Binary-Tree"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0500-0599/0543.Diameter%20of%20Binary%20Tree/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/diameter-of-binary-tree"
+    }
+  ],
+  "binary-tree-level-order-traversal": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0102.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/102.binary-tree-level-order-traversal.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0102.Binary-Tree-Level-Order-Traversal"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0102.Binary%20Tree%20Level%20Order%20Traversal/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/binary-tree-level-order-traversal"
+    }
+  ],
+  "convert-sorted-array-to-binary-search-tree": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0108.%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/108.convert-sorted-array-to-binary-search-tree.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0108.Convert-Sorted-Array-to-Binary-Search-Tree"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0108.Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/convert-sorted-array-to-binary-search-tree"
+    }
+  ],
+  "validate-binary-search-tree": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0098.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/98.validate-binary-search-tree.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0098.Validate-Binary-Search-Tree"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0098.Validate%20Binary%20Search%20Tree/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/validate-binary-search-tree"
+    }
+  ],
+  "kth-smallest-element-in-a-bst": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/230.kth-smallest-element-in-a-bst.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0230.Kth-Smallest-Element-in-a-BST"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0230.Kth%20Smallest%20Element%20in%20a%20BST/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/kth-smallest-element-in-a-bst"
+    }
+  ],
+  "binary-tree-right-side-view": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/199.binary-tree-right-side-view.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0199.Binary-Tree-Right-Side-View"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0199.Binary%20Tree%20Right%20Side%20View/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/binary-tree-right-side-view"
+    }
+  ],
+  "flatten-binary-tree-to-linked-list": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0114.Flatten-Binary-Tree-to-Linked-List"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0114.Flatten%20Binary%20Tree%20to%20Linked%20List/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/flatten-binary-tree-to-linked-list"
+    }
+  ],
+  "construct-binary-tree-from-preorder-and-inorder-traversal": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0105.Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0105.Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/construct-binary-tree-from-preorder-and-inorder-traversal"
+    }
+  ],
+  "path-sum-iii": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/437.path-sum-iii.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0437.Path-Sum-III"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0400-0499/0437.Path%20Sum%20III/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/path-sum-iii"
+    }
+  ],
+  "lowest-common-ancestor-of-a-binary-tree": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/236.lowest-common-ancestor-of-a-binary-tree.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0236.Lowest-Common-Ancestor-of-a-Binary-Tree"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/lowest-common-ancestor-of-a-binary-tree"
+    }
+  ],
+  "binary-tree-maximum-path-sum": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/124.binary-tree-maximum-path-sum.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0124.Binary-Tree-Maximum-Path-Sum"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0124.Binary%20Tree%20Maximum%20Path%20Sum/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/binary-tree-maximum-path-sum"
+    }
+  ],
+  "number-of-islands": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0200.%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.%E5%B9%BF%E6%90%9C%E7%89%88.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/200.number-of-islands.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0200.Number-of-Islands"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0200.Number%20of%20Islands/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/number-of-islands"
+    }
+  ],
+  "rotting-oranges": [
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0900-0999/0994.Rotting%20Oranges/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/rotting-oranges"
+    }
+  ],
+  "course-schedule": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0207.%E8%AF%BE%E7%A8%8B%E8%A1%A8.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0207.Course-Schedule"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0207.Course%20Schedule/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/course-schedule"
+    }
+  ],
+  "implement-trie-prefix-tree": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/208.implement-trie-prefix-tree.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0208.Implement-Trie-Prefix-Tree"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0208.Implement%20Trie%20%28Prefix%20Tree%29/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/implement-trie-prefix-tree"
+    }
+  ],
+  "permutations": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0046.%E5%85%A8%E6%8E%92%E5%88%97.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/46.permutations.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0046.Permutations"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0046.Permutations/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/permutations"
+    }
+  ],
+  "subsets": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0078.%E5%AD%90%E9%9B%86.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/78.subsets.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0078.Subsets"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0078.Subsets/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/subsets"
+    }
+  ],
+  "letter-combinations-of-a-phone-number": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0017.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/17.Letter-Combinations-of-a-Phone-Number.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0017.Letter-Combinations-of-a-Phone-Number"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0017.Letter%20Combinations%20of%20a%20Phone%20Number/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/letter-combinations-of-a-phone-number"
+    }
+  ],
+  "combination-sum": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0039.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/39.combination-sum.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0039.Combination-Sum"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0039.Combination%20Sum/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/combination-sum"
+    }
+  ],
+  "generate-parentheses": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/22.generate-parentheses.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0022.Generate-Parentheses"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0022.Generate%20Parentheses/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/generate-parentheses"
+    }
+  ],
+  "word-search": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/79.word-search.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0079.Word-Search"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0079.Word%20Search/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/word-search"
+    }
+  ],
+  "palindrome-partitioning": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0131.%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/131.palindrome-partitioning.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0131.Palindrome-Partitioning"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0131.Palindrome%20Partitioning/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/palindrome-partitioning"
+    }
+  ],
+  "n-queens": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0051.N%E7%9A%87%E5%90%8E.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0051.N-Queens"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0051.N-Queens/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/n-queens"
+    }
+  ],
+  "search-insert-position": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0035.%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0035.Search-Insert-Position"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0035.Search%20Insert%20Position/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/search-insert-position"
+    }
+  ],
+  "search-a-2d-matrix": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0074.Search-a-2D-Matrix"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0074.Search%20a%202D%20Matrix/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/search-a-2d-matrix"
+    }
+  ],
+  "find-first-and-last-position-of-element-in-sorted-array": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0034.%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E5%85%83%E7%B4%A0%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%92%8C%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E4%BD%8D%E7%BD%AE.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0034.Find-First-and-Last-Position-of-Element-in-Sorted-Array"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/find-first-and-last-position-of-element-in-sorted-array"
+    }
+  ],
+  "search-in-rotated-sorted-array": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/33.search-in-rotated-sorted-array.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0033.Search-in-Rotated-Sorted-Array"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0033.Search%20in%20Rotated%20Sorted%20Array/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/search-in-rotated-sorted-array"
+    }
+  ],
+  "find-minimum-in-rotated-sorted-array": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/153.find-minimum-in-rotated-sorted-array.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0153.Find-Minimum-in-Rotated-Sorted-Array"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0153.Find%20Minimum%20in%20Rotated%20Sorted%20Array/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/find-minimum-in-rotated-sorted-array"
+    }
+  ],
+  "median-of-two-sorted-arrays": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/4.median-of-two-sorted-arrays.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0004.Median-of-Two-Sorted-Arrays"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0004.Median%20of%20Two%20Sorted%20Arrays/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/median-of-two-sorted-arrays"
+    }
+  ],
+  "valid-parentheses": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0020.%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/20.valid-parentheses.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0020.Valid-Parentheses"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0020.Valid%20Parentheses/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/valid-parentheses"
+    }
+  ],
+  "min-stack": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/155.min-stack.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0155.Min-Stack"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0155.Min%20Stack/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/min-stack"
+    }
+  ],
+  "decode-string": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/394.decode-string.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0394.Decode-String"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0300-0399/0394.Decode%20String/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/decode-string"
+    }
+  ],
+  "daily-temperatures": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0739.%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0739.Daily-Temperatures"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0700-0799/0739.Daily%20Temperatures/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/daily-temperatures"
+    }
+  ],
+  "largest-rectangle-in-histogram": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0084.%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/84.largest-rectangle-in-histogram.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0084.Largest-Rectangle-in-Histogram"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0084.Largest%20Rectangle%20in%20Histogram/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/largest-rectangle-in-histogram"
+    }
+  ],
+  "kth-largest-element-in-an-array": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/215.kth-largest-element-in-an-array.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0215.Kth-Largest-Element-in-an-Array"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0215.Kth%20Largest%20Element%20in%20an%20Array/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/kth-largest-element-in-an-array"
+    }
+  ],
+  "top-k-frequent-elements": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0347.%E5%89%8DK%E4%B8%AA%E9%AB%98%E9%A2%91%E5%85%83%E7%B4%A0.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0347.Top-K-Frequent-Elements"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0300-0399/0347.Top%20K%20Frequent%20Elements/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/top-k-frequent-elements"
+    }
+  ],
+  "find-median-from-data-stream": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/295.find-median-from-data-stream.md"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0295.Find%20Median%20from%20Data%20Stream/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/find-median-from-data-stream"
+    }
+  ],
+  "best-time-to-buy-and-sell-stock": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/121.best-time-to-buy-and-sell-stock.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0121.Best-Time-to-Buy-and-Sell-Stock"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0121.Best%20Time%20to%20Buy%20and%20Sell%20Stock/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/best-time-to-buy-and-sell-stock"
+    }
+  ],
+  "jump-game": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0055.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/55.jump-game.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0055.Jump-Game"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0055.Jump%20Game/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/jump-game"
+    }
+  ],
+  "jump-game-ii": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0045.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8FII.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0045.Jump-Game-II"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0045.Jump%20Game%20II/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/jump-game-ii"
+    }
+  ],
+  "partition-labels": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0763.%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0763.Partition-Labels"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0700-0799/0763.Partition%20Labels/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/partition-labels"
+    }
+  ],
+  "climbing-stairs": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E7%89%88%E6%9C%AC.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0070.Climbing-Stairs"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0070.Climbing%20Stairs/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/climbing-stairs"
+    }
+  ],
+  "pascals-triangle": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0118.Pascals-Triangle"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0118.Pascal%27s%20Triangle/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/pascals-triangle"
+    }
+  ],
+  "house-robber": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/198.house-robber.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0198.House-Robber"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0198.House%20Robber/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/house-robber"
+    }
+  ],
+  "perfect-squares": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/279.perfect-squares.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0279.Perfect-Squares"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0279.Perfect%20Squares/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/perfect-squares"
+    }
+  ],
+  "coin-change": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/322.coin-change.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0322.Coin-Change"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0300-0399/0322.Coin%20Change/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/coin-change"
+    }
+  ],
+  "word-break": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/139.word-break.md"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0139.Word%20Break/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/word-break"
+    }
+  ],
+  "longest-increasing-subsequence": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0300.%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0300.Longest-Increasing-Subsequence"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0300-0399/0300.Longest%20Increasing%20Subsequence/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/longest-increasing-subsequence"
+    }
+  ],
+  "maximum-product-subarray": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/152.maximum-product-subarray.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0152.Maximum-Product-Subarray"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0152.Maximum%20Product%20Subarray/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/maximum-product-subarray"
+    }
+  ],
+  "partition-equal-subset-sum": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/416.partition-equal-subset-sum.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0416.Partition-Equal-Subset-Sum"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0400-0499/0416.Partition%20Equal%20Subset%20Sum/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/partition-equal-subset-sum"
+    }
+  ],
+  "longest-valid-parentheses": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/32.longest-valid-parentheses.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0032.Longest-Valid-Parentheses"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0032.Longest%20Valid%20Parentheses/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/longest-valid-parentheses"
+    }
+  ],
+  "unique-paths": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0062.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/62.unique-paths.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0062.Unique-Paths"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0062.Unique%20Paths/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/unique-paths"
+    }
+  ],
+  "minimum-path-sum": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0064.Minimum-Path-Sum"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0064.Minimum%20Path%20Sum/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/minimum-path-sum"
+    }
+  ],
+  "longest-palindromic-substring": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0005.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/5.longest-palindromic-substring.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0005.Longest-Palindromic-Substring"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0005.Longest%20Palindromic%20Substring/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/longest-palindromic-substring"
+    }
+  ],
+  "longest-common-subsequence": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.html"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/1143.Longest-Common-Subsequence"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/1100-1199/1143.Longest%20Common%20Subsequence/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/longest-common-subsequence"
+    }
+  ],
+  "edit-distance": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0072.%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.html"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0072.Edit%20Distance/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/edit-distance"
+    }
+  ],
+  "single-number": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/136.single-number.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0136.Single-Number"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0136.Single%20Number/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/single-number"
+    }
+  ],
+  "majority-element": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/169.majority-element.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0169.Majority-Element"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0100-0199/0169.Majority%20Element/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/majority-element"
+    }
+  ],
+  "sort-colors": [
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/75.sort-colors.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0075.Sort-Colors"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0075.Sort%20Colors/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/sort-colors"
+    }
+  ],
+  "next-permutation": [
+    {
+      "label": "代码随想录图解",
+      "note": "开源图文教程（含思路拆解）",
+      "url": "https://www.programmercarl.com/0031.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.html"
+    },
+    {
+      "label": "azl 中文题解",
+      "note": "GitHub 开源题解，含思路分析",
+      "url": "https://github.com/azl397985856/leetcode/blob/master/problems/31.next-permutation.md"
+    },
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0031.Next-Permutation"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0000-0099/0031.Next%20Permutation/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/next-permutation"
+    }
+  ],
+  "find-the-duplicate-number": [
+    {
+      "label": "Halfrost LeetCode-Go",
+      "note": "Go 实现与题解说明",
+      "url": "https://github.com/halfrost/LeetCode-Go/tree/master/leetcode/0287.Find-the-Duplicate-Number"
+    },
+    {
+      "label": "Doocs 多语言题解",
+      "note": "开源仓库，含复杂度与多语言代码",
+      "url": "https://github.com/doocs/leetcode/blob/main/solution/0200-0299/0287.Find%20the%20Duplicate%20Number/README.md"
+    },
+    {
+      "label": "NeetCode Solution",
+      "note": "英文讲解页（含视频入口）",
+      "url": "https://neetcode.io/solutions/find-the-duplicate-number"
+    }
+  ]
+}
