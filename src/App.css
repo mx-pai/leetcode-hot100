@@ -281,3 +281,94 @@
     display: none !important;
   }
 }
+
+
+/* Code wrap for long comments */
+.code-card pre,
+.code-card pre code {
+  white-space: pre-wrap !important;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+}
+
+/* Bottom dock: 题库 + 上下题，靠近阅读区更好点 */
+.study-workspace {
+  padding-bottom: 88px;
+}
+.progress-inline {
+  margin-left: auto;
+  color: #6e6e69;
+}
+.problem-kicker {
+  width: 100%;
+}
+.study-dock {
+  position: fixed;
+  z-index: 25;
+  left: 50%;
+  bottom: 18px;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 10px;
+  background: #fafaf8;
+  border: 1px solid #cfcfc8;
+  box-shadow: 0 10px 28px rgba(20, 20, 19, .14);
+}
+.dock-menu,
+.dock-nav button {
+  border: 1px solid #d1d1cb;
+  background: #fff;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 8px 12px;
+  color: #444;
+  font-size: 12px;
+  cursor: pointer;
+}
+.dock-menu:hover,
+.dock-nav button:hover:not(:disabled) {
+  border-color: #777;
+  color: #111;
+}
+.dock-nav button:disabled {
+  opacity: .35;
+  cursor: default;
+}
+.dock-nav {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.dock-nav span {
+  min-width: 52px;
+  text-align: center;
+  font: 500 11px 'IBM Plex Mono', monospace;
+  color: #666;
+}
+.type-practice-stage pre {
+  white-space: pre-wrap !important;
+  word-break: break-word;
+}
+@media (max-width: 800px) {
+  .study-dock {
+    left: 12px;
+    right: 12px;
+    bottom: 12px;
+    transform: none;
+    width: auto;
+    justify-content: space-between;
+  }
+  .dock-nav button {
+    font-size: 0;
+    padding: 8px;
+  }
+  .dock-nav button svg {
+    margin: 0;
+  }
+  .study-header {
+    display: none;
+  }
+}

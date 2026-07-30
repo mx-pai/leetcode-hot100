@@ -60,7 +60,7 @@ export default function CodeBlock({ code, language }: Props) {
         },
       }}
       showLineNumbers={false}
-      wrapLongLines={false}
+      wrapLongLines
     >
       {code}
     </SyntaxHighlighter>
