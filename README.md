@@ -33,4 +33,6 @@ scripts/             # 校验脚本与原始题库 JSON
 
 ## 部署
 
+在线访问：https://mx-pai.github.io/leetcode-hot100/
+
 推送到 `main` 后，GitHub Actions 会自动构建并发布到 GitHub Pages。
