@@ -245,7 +245,9 @@
   background: transparent !important;
   color: inherit;
   font: 400 12px/1.75 'IBM Plex Mono', monospace;
-  white-space: pre;
+  white-space: pre-wrap;
+  word-break: break-word;
+  overflow-wrap: anywhere;
   tab-size: 4;
 }
 .type-practice-stage .typed {
@@ -348,9 +350,28 @@
   font: 500 11px 'IBM Plex Mono', monospace;
   color: #666;
 }
+.type-practice-actions button kbd {
+  margin-left: 4px;
+  padding: 1px 4px;
+  border: 1px solid #4a4a46;
+  font: 500 9px 'IBM Plex Mono', monospace;
+  color: #8a8a84;
+}
+.code-block-wrap {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.code-block-wrap pre,
+.code-block-wrap code,
+.code-block-wrap span {
+  white-space: pre-wrap !important;
+  word-break: break-word !important;
+  overflow-wrap: anywhere !important;
+}
 .type-practice-stage pre {
   white-space: pre-wrap !important;
-  word-break: break-word;
+  word-break: break-word !important;
+  overflow-wrap: anywhere !important;
 }
 @media (max-width: 800px) {
   .study-dock {

@@ -50,12 +50,12 @@ export default function StudyWorkspace({
     return () => mq.removeEventListener('change', sync)
   }, [mode])
 
-  const viewCode = mode === 'acm' ? p.acm_templates[language] : p.solutions[language]
-  // 跟敲 = LeetCode 题解，不是 ACM
-  const practiceCode = practiceTarget(p.solutions[language] || '')
+  const viewCode = mode === 'acm' || mode === 'practice' ? p.acm_templates[language] : p.solutions[language]
+  // 跟敲 = ACM 模板（含 IO），去掉文件头注释
+  const practiceCode = practiceTarget(p.acm_templates[language] || '')
   const recall = formatRecall(p.core_logic, p.title, p.tags)
   const copy = async () => {
-    await navigator.clipboard.writeText(viewCode)
+    await navigator.clipboard.writeText(mode === 'practice' ? practiceCode : viewCode)
     setCopied(true)
     window.setTimeout(() => setCopied(false), 1400)
   }
@@ -124,9 +124,9 @@ export default function StudyWorkspace({
             <button
               className={`practice-tab${mode === 'practice' ? ' active' : ''}`}
               onClick={() => setMode('practice')}
-              title='对照 LeetCode 题解跟敲（非 ACM）'
+              title='对照 ACM 模板跟敲（Shift+Enter 偷看一行）'
             >
-              跟敲题解
+              跟敲 ACM
             </button>
           </div>
           {mode !== 'practice' && (
@@ -146,7 +146,7 @@ export default function StudyWorkspace({
             </button>
           ))}
         </div>
-        {mode === 'acm' && (
+        {(mode === 'acm' || mode === 'practice') && (
           <div className='protocol-note'>
             <strong>输入协议</strong>
             <MarkdownContent content={p.acm_protocols[language]} />

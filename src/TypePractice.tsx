@@ -49,15 +49,20 @@ export default function TypePractice({ code, resetKey }: Props) {
   }
 
   const onKeyDown = (e: KeyboardEvent) => {
-    if (done) return
     if (e.key === 'Escape') {
       e.preventDefault()
       reset()
       return
     }
+    // Shift+Enter → 偷看一行
+    if (e.key === 'Enter' && e.shiftKey) {
+      e.preventDefault()
+      peekLine()
+      return
+    }
+    if (done) return
     if (e.key === 'Tab') {
       e.preventDefault()
-      // Accept however many spaces the target expects next (2 or 4), or a literal tab already normalized
       let n = 0
       while (target[cursor + n] === ' ' && n < 8) n++
       if (n > 0) {
@@ -110,8 +115,9 @@ export default function TypePractice({ code, resetKey }: Props) {
           <i style={{ width: `${progress}%` }} />
         </span>
         <div className='type-practice-actions'>
-          <button type='button' onClick={peekLine} disabled={done}>
+          <button type='button' onClick={peekLine} disabled={done} title='Shift+Enter'>
             <Eye size={14} /> 偷看一行
+            <kbd>⇧↵</kbd>
           </button>
           <button type='button' onClick={reset}>
             <RotateCcw size={14} /> 重置
@@ -133,9 +139,9 @@ export default function TypePractice({ code, resetKey }: Props) {
           )}
           <span className='ghost'>{rest}</span>
         </pre>
-        {!target && <p className='type-practice-empty'>本题暂无该语言代码</p>}
+        {!target && <p className='type-practice-empty'>本题暂无该语言 ACM 模板</p>}
       </div>
-      <p className='type-practice-hint'>点进编辑区后直接敲 · Tab 缩进 · Enter 换行 · Esc 重置</p>
+      <p className='type-practice-hint'>ACM 题解跟敲 · Tab 缩进 · Enter 换行 · Shift+Enter 偷看一行 · Esc 重置</p>
     </div>
   )
 }
