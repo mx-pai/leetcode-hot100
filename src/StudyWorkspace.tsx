@@ -3,7 +3,7 @@ import { useState } from 'react'
 import CodeBlock from './CodeBlock'
 import GuideLinks from './GuideLinks'
 import MarkdownContent from './MarkdownContent'
-import { languages, type CodeMode, type Language, type Problem } from './types'
+import { languages, primaryLanguages, type CodeMode, type Language, type Problem } from './types'
 
 type Props = { problem: Problem; position: number; total: number; completed: boolean; onToggle:()=>void; onPrev:()=>void; onNext:()=>void; onMenu:()=>void }
 
@@ -37,7 +37,17 @@ export default function StudyWorkspace({problem:p, position, total, completed, o
         <div className='mode-tabs'><button className={mode==='leetcode'?'active':''} onClick={()=>setMode('leetcode')}>LeetCode</button><button className={mode==='acm'?'active':''} onClick={()=>setMode('acm')}>ACM 标准输入</button></div>
         <button className='copy-button' onClick={copy}>{copied?<Check size={15}/>:<Clipboard size={15}/>} {copied?'已复制':'复制代码'}</button>
       </div>
-      <div className='language-tabs'>{languages.map(l=><button key={l.key} className={language===l.key?'active':''} onClick={()=>setLanguage(l.key)}>{l.label}</button>)}</div>
+      <div className='language-tabs'>
+        {languages.map((l) => (
+          <button
+            key={l.key}
+            className={`${language === l.key ? 'active' : ''}${primaryLanguages.some((p) => p.key === l.key) ? '' : ' secondary'}`}
+            onClick={() => setLanguage(l.key)}
+          >
+            {l.label}
+          </button>
+        ))}
+      </div>
       {mode==='acm'&&<div className='protocol-note'><strong>输入协议</strong><MarkdownContent content={p.acm_protocols[language]}/></div>}
       <CodeBlock code={code} language={language}/>
     </section>

@@ -1,4 +1,4 @@
-export type Language = 'python' | 'swift' | 'oc' | 'cpp'
+export type Language = 'python' | 'swift' | 'oc' | 'cpp' | 'c' | 'java' | 'go' | 'typescript'
 export type CodeMode = 'leetcode' | 'acm'
 
 export interface GuideLink {
@@ -46,7 +46,20 @@ export function normalizeCategory(value: string) {
   return categoryAliases[key] ?? key
 }
 
-export const languages: { key: Language; label: string }[] = [
-  { key: 'python', label: 'Python' }, { key: 'swift', label: 'Swift' },
-  { key: 'oc', label: 'Objective-C' }, { key: 'cpp', label: 'C++' },
+/** 常用语言（默认靠前） */
+export const primaryLanguages: { key: Language; label: string }[] = [
+  { key: 'python', label: 'Python' },
+  { key: 'swift', label: 'Swift' },
+  { key: 'oc', label: 'Objective-C' },
+  { key: 'cpp', label: 'C++' },
 ]
+
+/** 热门补充语言 */
+export const secondaryLanguages: { key: Language; label: string }[] = [
+  { key: 'c', label: 'C' },
+  { key: 'java', label: 'Java' },
+  { key: 'go', label: 'Go' },
+  { key: 'typescript', label: 'TypeScript' },
+]
+
+export const languages = [...primaryLanguages, ...secondaryLanguages]

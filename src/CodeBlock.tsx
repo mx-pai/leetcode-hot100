@@ -1,8 +1,12 @@
 import { PrismLight as SyntaxHighlighter } from 'react-syntax-highlighter'
+import c from 'react-syntax-highlighter/dist/esm/languages/prism/c'
 import cpp from 'react-syntax-highlighter/dist/esm/languages/prism/cpp'
+import go from 'react-syntax-highlighter/dist/esm/languages/prism/go'
+import java from 'react-syntax-highlighter/dist/esm/languages/prism/java'
 import objectivec from 'react-syntax-highlighter/dist/esm/languages/prism/objectivec'
 import python from 'react-syntax-highlighter/dist/esm/languages/prism/python'
 import swift from 'react-syntax-highlighter/dist/esm/languages/prism/swift'
+import typescript from 'react-syntax-highlighter/dist/esm/languages/prism/typescript'
 import { oneDark } from 'react-syntax-highlighter/dist/esm/styles/prism'
 import type { Language } from './types'
 
@@ -10,12 +14,20 @@ SyntaxHighlighter.registerLanguage('python', python)
 SyntaxHighlighter.registerLanguage('swift', swift)
 SyntaxHighlighter.registerLanguage('objectivec', objectivec)
 SyntaxHighlighter.registerLanguage('cpp', cpp)
+SyntaxHighlighter.registerLanguage('c', c)
+SyntaxHighlighter.registerLanguage('java', java)
+SyntaxHighlighter.registerLanguage('go', go)
+SyntaxHighlighter.registerLanguage('typescript', typescript)
 
 const prismLang: Record<Language, string> = {
   python: 'python',
   swift: 'swift',
   oc: 'objectivec',
   cpp: 'cpp',
+  c: 'c',
+  java: 'java',
+  go: 'go',
+  typescript: 'typescript',
 }
 
 type Props = {
