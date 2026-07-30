@@ -22,14 +22,16 @@ export default function StudyWorkspace({problem:p, position, total, completed, o
     <section className='problem-heading'>
       <div className='problem-kicker'><span className={`pill ${p.difficulty}`}>{p.difficulty}</span><span>{p.category}</span><span>#{p.number}</span></div>
       <div className='title-row'><div><h1>{p.title}</h1><p>{p.en_name}</p></div><button className={`complete-button ${completed?'done':''}`} onClick={onToggle}>{completed?<CheckCircle2 size={18}/>:<span className='empty-check'/>}{completed?'已掌握':'标记掌握'}</button></div>
-      <a className='official-link' href={p.link} target='_blank' rel='noreferrer'>查看 LeetCode 原题 <ExternalLink size={14}/></a>
+      <div className='heading-links'>
+        <a className='official-link' href={p.link} target='_blank' rel='noreferrer'>查看 LeetCode 原题 <ExternalLink size={14}/></a>
+        <GuideLinks problem={p}/>
+      </div>
     </section>
     {Boolean(p.description)&&<section className='description-card'><span className='eyebrow'>PROBLEM</span><h2>题目描述</h2><MarkdownContent content={p.description}/></section>}
     <section className='recall-card'>
       <div className='card-number'>01</div><div><span className='eyebrow'>CORE RECALL</span><h2>核心思路</h2><MarkdownContent content={p.core_logic}/></div>
       <div className='complexity'><span>复杂度</span><MarkdownContent content={p.complexity}/></div>
     </section>
-    <GuideLinks problem={p}/>
     <section className='code-card'>
       <div className='code-toolbar'>
         <div className='mode-tabs'><button className={mode==='leetcode'?'active':''} onClick={()=>setMode('leetcode')}>LeetCode</button><button className={mode==='acm'?'active':''} onClick={()=>setMode('acm')}>ACM 标准输入</button></div>
