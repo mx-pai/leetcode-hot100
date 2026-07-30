@@ -1,5 +1,5 @@
 export type Language = 'python' | 'swift' | 'oc' | 'cpp' | 'c' | 'java' | 'go' | 'typescript'
-export type CodeMode = 'leetcode' | 'acm'
+export type CodeMode = 'leetcode' | 'acm' | 'practice'
 
 export interface GuideLink {
   label: string
