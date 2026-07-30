@@ -15,6 +15,12 @@ function Business() {
   const [navOpen,setNavOpen]=useState(false)
   const [completed,setCompleted]=useState<Set<string>>(()=>new Set(JSON.parse(localStorage.getItem(STORE)||'[]')))
   useEffect(()=>{fetch('./leetcode_data.json').then(r=>{if(!r.ok)throw new Error('数据请求失败');return r.json() as Promise<Problem[]>}).then(items=>setData(items.map(item=>({...item,category:normalizeCategory(item.category)})))).catch(()=>setError('题库加载失败，请刷新页面重试。'))},[])
+  useEffect(()=>{
+    if(!navOpen)return
+    const onKey=(e:KeyboardEvent)=>{if(e.key==='Escape')setNavOpen(false)}
+    window.addEventListener('keydown',onKey)
+    return()=>window.removeEventListener('keydown',onKey)
+  },[navOpen])
   const visible=useMemo(()=>data.filter(p=>{
     const q=query.trim().toLowerCase()
     return (category==='全部'||p.category===category)&&(difficulty==='全部'||p.difficulty===difficulty)&&(!q||`${p.number} ${p.title} ${p.en_name} ${p.slug}`.toLowerCase().includes(q))

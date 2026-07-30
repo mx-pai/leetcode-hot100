@@ -15,7 +15,7 @@ export default function StudyWorkspace({problem:p, position, total, completed, o
   const copy=async()=>{await navigator.clipboard.writeText(code);setCopied(true);window.setTimeout(()=>setCopied(false),1400)}
   return <main className='study-workspace'>
     <header className='study-header'>
-      <button className='mobile-menu' onClick={onMenu} aria-label='打开导航'><Menu size={19}/></button>
+      <button className='mobile-menu' onClick={onMenu} aria-label='打开题库导航'><Menu size={17}/><span>题库</span></button>
       <div><span>LEETCODE HOT 100</span><strong>{position + 1} / {total}</strong></div>
       <nav><button onClick={onPrev} disabled={position===0}><ChevronLeft size={17}/>上一题</button><button onClick={onNext} disabled={position===total-1}>下一题<ChevronRight size={17}/></button></nav>
     </header>
@@ -29,8 +29,18 @@ export default function StudyWorkspace({problem:p, position, total, completed, o
     </section>
     {Boolean(p.description)&&<section className='description-card'><span className='eyebrow'>PROBLEM</span><h2>题目描述</h2><MarkdownContent content={p.description}/></section>}
     <section className='recall-card'>
-      <div className='card-number'>01</div><div><span className='eyebrow'>CORE RECALL</span><h2>核心思路</h2><MarkdownContent content={p.core_logic}/></div>
-      <div className='complexity'><span>复杂度</span><MarkdownContent content={p.complexity}/></div>
+      <div className='card-number'>01</div>
+      <div className='recall-body'>
+        <span className='eyebrow'>CORE RECALL</span>
+        <h2>核心思路</h2>
+        <MarkdownContent content={p.core_logic} />
+        {Boolean(p.complexity) && (
+          <div className='complexity-inline'>
+            <span>复杂度</span>
+            <MarkdownContent content={p.complexity} />
+          </div>
+        )}
+      </div>
     </section>
     <section className='code-card'>
       <div className='code-toolbar'>
