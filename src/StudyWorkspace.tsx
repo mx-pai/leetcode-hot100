@@ -91,16 +91,13 @@ export default function StudyWorkspace({
 
       {Boolean(p.description) && (
         <section className='description-card'>
-          <span className='eyebrow'>PROBLEM</span>
           <h2>题目描述</h2>
           <MarkdownContent content={p.description} />
         </section>
       )}
 
       <section className='recall-card'>
-        <div className='card-number'>01</div>
         <div className='recall-body'>
-          <span className='eyebrow'>CORE RECALL</span>
           <h2>核心思路</h2>
           <MarkdownContent className='recall-md' content={recall || p.core_logic} />
           {Boolean(p.complexity) && (
